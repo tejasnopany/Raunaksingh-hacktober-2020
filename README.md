@@ -42,13 +42,31 @@ OCTOBER 20 ----- Hacktoberfest Tuesdays: IsraelTel Aviv, Israel
 
 OCTOBER 27 ----- Hacktoberfest Tuesdays: EuropeLondon, United Kingdom
 
+## Requirements :
+-> Know what is Git and Github.
+
+-> Learn How to pull request on Github.
+
+## Updated Rules :
+Individual pull requests can also be directly opted-in to Hacktoberfest with the ‘hacktoberfest-accepted’ label, on any public GitHub repository, without the need for the ‘hacktoberfest’ repository topic.
+
+PRs count if:
+Submitted during the month of October AND
+Submitted in a public repo AND (
+  The PR is labelled as hacktoberfest-accepted by a maintainer OR
+  Submitted in a repo with the hacktoberfest topic AND (
+    The PR is merged OR
+    The PR has been approved
+  )
+)
+
 ## Steps to follow :
 
 
 Step 1 - Register for Hacktoberfest :
 You can register from [here](https://hacktoberfest.digitalocean.com).
 
-Step 2 - How to Contribute :question :
+Step 2 - How to Contribute :question:
 
  -> 1: Fork the repository!
        == 
